@@ -1,0 +1,28 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "A Rest api endpoint for github users",
+  "main": "index.js",
+  "scripts": {
+    "test": "testRest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keemhs/Rest-api-oct-3.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "github"
+  ],
+  "author": "Jeremy Schmich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keemhs/Rest-api-oct-3/issues"
+  },
+  "homepage": "https://github.com/keemhs/Rest-api-oct-3#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}
